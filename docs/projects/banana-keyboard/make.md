@@ -37,7 +37,7 @@ Using the **1st** crocodile clip, connect the second end of the crocodile clip o
 
 Using the **2nd** crocodile clip, connect the second end of the crocodile clip onto tip of the headphone jack.
 
-### ``|Step 5|`` - Connect a fruit lead
+### ``|Step 5|`` - Connect a lead into a fruit 
 
 ![](/static/mb/lessons/banana-keyboard-7.png)
 
